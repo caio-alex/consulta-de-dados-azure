@@ -1,1 +1,3 @@
 # consulta-de-dados-azure
+
+O Azure Cognitive Search com AI Search permite indexar, enriquecer e consultar grandes volumes de dados com inteligência artificial. Para utilizá-lo, acesse o portal Azure, crie um recurso de Azure Cognitive Search e defina o nome, região e plano de serviço. Após a criação, configure um índice de pesquisa, definindo os campos dos dados que serão buscados. Em seguida, conecte uma fonte de dados (como Azure Blob Storage ou SQL Database) e use skillsets de IA, como extração de texto, análise de sentimento e OCR, para enriquecer os dados durante a indexação. Após isso, você pode testar consultas no próprio portal ou integrar a busca em aplicativos via API REST, oferecendo experiências de pesquisa inteligente e personalizada.
